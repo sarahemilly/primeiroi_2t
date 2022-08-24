@@ -49,10 +49,10 @@ li a:hover {
   background: rgb(139, 105, 201);
   color: azure;
 }
-#abelha {
+#culinaria {
    width: 15%;
 }
-.caixaAbelha {
+.caixaCulinaria {
   position: absolute;
   top: 45px;
   width: 90%;
@@ -67,7 +67,7 @@ li a:hover {
   display: flex;
   justify-content: center;
 }
-.caixaAbelha2 {
+.caixaCulinaria2 {
   position: absolute;
   top: 45px;
   width: 90%;
@@ -80,5 +80,5 @@ li a:hover {
   border-width: 20px;
   padding: 20px;
   display: flex;
-  justify-content: end;
+  justify-content: center;
 }
